@@ -1,0 +1,1 @@
+The Simon Says Game is a memory challenge built with HTML, CSS, and JavaScript. Players replicate increasingly complex sequences of colors with responsive design for all devices. It offers scores to track progress and becomes harder as you play. Perfect for memory testing and fun!
